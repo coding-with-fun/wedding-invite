@@ -40,8 +40,10 @@
 
 .quote_banner_quote {
     font-size: 30px;
+    text-align: center;
 }
 
 .quote_banner_author {
     font-size: 18px;
+    text-transform: uppercase;
 }
